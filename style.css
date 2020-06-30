@@ -5,10 +5,10 @@ h1 {
     padding: 10px;
     background-color: maroon;                    
 }
-section {
-    margin: 10px;
+section div, form div{
+    margin: 1rem;
     padding: 0px; 
-    background-color: white;         
+    background-color: white;        
 }
 .aboutmeimage {
     margin-bottom: 15px;
